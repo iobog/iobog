@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Bogdan Ioan 👋
 
-<!--
-**iobog/iobog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with some experience in multiple programming languages and a strong focus on building practical applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various projects involving Java, Python, C++, C#, PHP, and JavaScript.
+- 🌱 I’m continuously learning and improving my skills in software development.
+- 💬 Feel free to ask me about any of my projects or technologies I use.
+- 📫 How to reach me: [bogdanioan37@yahoo.com]
+
+## Technologies & Languages
+
+- PHP
+- Java
+- Python
+- C++
+- C#
+- JavaScript
+- TypeScript
+
+## Notable Projects
+
+| Project Name           | Description                        | Language   |
+|-----------------------|----------------------------------|------------|
+| [atestat-0](https://github.com/iobog/atestat-0)           | A PHP project                     | PHP        |
+| [UniNetworkApplication](https://github.com/iobog/UniNetworkApplication) | A Java application               | Java       |
+| [UniPythonApp](https://github.com/iobog/UniPythonApp)               | A Python application             | Python     |
+| [QtApplication](https://github.com/iobog/QtApplication)             | A C++ application                | C++        |
+| [SalesAgency-app](https://github.com/iobog/SalesAgency-app)          | A Web application                 | .NET &  REact   |
+
+## Let's Connect!
+
+- GitHub: [github.com/iobog](https://github.com/iobog)
+- LinkedIn: [https://www.linkedin.com/in/iobog37]
+- Twitter: [Add your Twitter handle here]
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my projects and reach out if you want to collaborate or have any questions.*
+
