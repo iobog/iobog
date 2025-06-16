@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with some expe
 | [UniNetworkApplication](https://github.com/iobog/UniNetworkApplication) | A Java application               | Java       |
 | [UniPythonApp](https://github.com/iobog/UniPythonApp)               | A Python application             | Python     |
 | [QtApplication](https://github.com/iobog/QtApplication)             | A C++ application                | C++        |
-| [SalesAgency-app](https://github.com/iobog/SalesAgency-app)          | A Web application                 | .NET &  REact   |
+| [SalesAgency-app](https://github.com/iobog/SalesAgency-app)          | A Web application                 | .NET &  React   |
 
 ## Let's Connect!
 
