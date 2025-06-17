@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with some expe
 ## Let's Connect!
 
 - GitHub: [github.com/iobog](https://github.com/iobog)
-- LinkedIn: [https://www.linkedin.com/in/iobog37]
+- LinkedIn: [https://www.linkedin.com/iobog37]
 
 ---
 
