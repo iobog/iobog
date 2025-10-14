@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with some expe
 
 | Project Name           | Description                        | Language   |
 |-----------------------|----------------------------------|------------|
+| [client-server](https://github.com/iobog/client-server)           | A Java application                     | Java        |
 | [atestat-0](https://github.com/iobog/atestat-0)           | A PHP project                     | PHP        |
 | [UniNetworkApplication](https://github.com/iobog/UniNetworkApplication) | A Java application               | Java       |
 | [UniPythonApp](https://github.com/iobog/UniPythonApp)               | A Python application             | Python     |
