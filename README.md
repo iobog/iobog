@@ -21,14 +21,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with some expe
 
 ## Notable Projects
 
-| Project Name           | Description                        | Language   |
-|-----------------------|----------------------------------|------------|
-| [client-server](https://github.com/iobog/client-server)           | A Java application                     | Java        |
-| [atestat-0](https://github.com/iobog/atestat-0)           | A PHP project                     | PHP        |
-| [UniNetworkApplication](https://github.com/iobog/UniNetworkApplication) | A Java application               | Java       |
-| [UniPythonApp](https://github.com/iobog/UniPythonApp)               | A Python application             | Python     |
-| [QtApplication](https://github.com/iobog/QtApplication)             | A C++ application                | C++        |
-| [SalesAgency-app](https://github.com/iobog/SalesAgency-app)          | A Web application                 | .NET &  React   |
+| Project Name                                                            | Description                                    | Language / Stack     |
+| ----------------------------------------------------------------------- | ---------------------------------------------- | -------------------- |
+| [client-server](https://github.com/iobog/client-server)                 | Client-server Java application                 | Java                 |
+| [atestat-0](https://github.com/iobog/atestat-0)                         | Web project developed for school certification | PHP                  |
+| [UniNetworkApplication](https://github.com/iobog/UniNetworkApplication) | University network-based application           | Java                 |
+| [UniPythonApp](https://github.com/iobog/UniPythonApp)                   | Python university project                      | Python               |
+| [QtApplication](https://github.com/iobog/QtApplication)                 | Desktop application built with Qt              | C++                  |
+| [SalesAgency-app](https://github.com/iobog/SalesAgency-app)             | Sales management web application               | .NET & React         |
+| [Runy](https://github.com/Pahul0516/Ares_server)                        | Multiplayer running & territory conquest game  | Spring Boot, PostGIS |
+| [Campionii României](https://github.com/AdventureNine/CampioniiRomaniei)| Educational desktop application                | Python & Kivy        |
+ 
 
 ## Let's Connect!
 
